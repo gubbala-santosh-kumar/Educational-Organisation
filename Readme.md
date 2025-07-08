@@ -133,7 +133,7 @@ Watch the working demo on YouTube:
 
 ## GitHub Repository
 
-[]()
+[https://github.com/gubbala-santosh-kumar/Educational-Organisation/tree/main](https://github.com/gubbala-santosh-kumar/Educational-Organisation/tree/main)
 
 ---
 
